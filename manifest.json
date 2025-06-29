@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "JetPunk Auto Solver",
+  "version": "1.0",
+  "description": "Automatically solves the countries of the world quiz on JetPunk.",
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["https://*.jetpunk.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://*.jetpunk.com/quizzes/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_title": "JetPunk Country Solver"
+  }
+}
