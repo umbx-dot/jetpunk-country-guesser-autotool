@@ -29,4 +29,4 @@ This is a Chrome/Brave extension that automatically solves the "Countries of the
 - Tested on Chrome and Brave.
 
 ## Photo
-![Screenshot of the extension](https://cdn.discordapp.com/attachments/1359949803555000483/1388813268499435570/pa.png?ex=686258a6&is=68610726&hm=66365f4766bf2edca9e0ac6329dbf58c865535c68ddfb2ac0cccdc54df8af6ac)
+![Screenshot of the extension](https://cdn.discordapp.com/attachments/1359949803555000483/1388813268499435570/pa.png?ex=6863aa26&is=686258a6&hm=bf447ce0f03f49c7c195971a0b5df97bb7cee797e98b6b5030f6b6f4446dfc7d&)
