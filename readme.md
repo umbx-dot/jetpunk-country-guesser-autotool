@@ -12,7 +12,7 @@ This is a Chrome/Brave extension that automatically solves the "Countries of the
 
 ## How to Use
 
-1. Go to the JetPunk quiz page.
+1. Go to the [quiz page](https://www.jetpunk.com/quizzes/how-many-countries-can-you-name).
 2. Click the "Solve" button that appears in the top-right corner.
 3. The extension will automatically fill in all country names.
 
